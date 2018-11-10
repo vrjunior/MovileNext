@@ -1,0 +1,15 @@
+{
+    "first_name": "Eric",
+    "middle_name": "Alves",
+    "last_name": "Brito",
+    "date": "2018-11-03T09:33:22Z",
+
+
+    "billingAddress": {
+        "streetName": "Rua Jurubeba",
+        "district": "Aclimação",
+        "postalCode": "01314-015",
+        "city": "São Paulo",
+        "country": "Brasil"
+    }
+}
